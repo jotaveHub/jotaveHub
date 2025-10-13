@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou João Victor</h1>
+<h1 align="center">Olá 👋, eu sou João Victor!</h1>
 <h3 align="center">Um desenvolvedor apaixonado pelo que faz.</h3>
 
 ---
@@ -32,4 +32,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jotaveHub&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaveHub&layout=compact&langs_count=7&theme=radical" alt="Linguagens Mais Usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jotaveHub/jotaveHub/output/dist/github-snake.svg" alt="snake animation" />
 </p>
