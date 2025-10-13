@@ -35,5 +35,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jotaveHub/jotaveHub/output/dist/github-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/JotaveHub/JotaveHub/output/dist/github-snake.svg" alt="snake animation" />
 </p>
