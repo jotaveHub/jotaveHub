@@ -9,6 +9,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matheusjohannaraujo/matheusjohannaraujo/main/Octocat.gif" alt="Octocat Typing" width="100"/>
+</p>
 
 ### 🛠️ Meu Kit de Ferramentas (Hard Skills)
 <p align="left">
@@ -29,9 +32,13 @@
 
 ### 📊 Minhas Estatísticas do GitHub
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jotaveHub&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaveHub&layout=compact&langs_count=7&theme=radical" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jotaveHub&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10&card_width=450&border_color=2e4fff&bg_color=0,0d1117&title_color=2e4fff&text_color=fff" alt="Estatísticas Animadas"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Seja+bem-vindo%28a%29+ao+meu+portf%C3%B3lio+de+projetos;Apaixonado+por+criar+solu%C3%A7%C3%B5es+com+tecnologia;Buscando+aprimorar+minhas+habilidades+a+cada+commit" alt="Animação de Texto" />
+  </a>
 </p>
 
 
