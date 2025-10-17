@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Meu Kit de Ferramentas (Hard Skills)
+### 🛠️ Tecnologias
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,js,html,css,python,git" />
@@ -26,5 +26,16 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-batista-de-ara%C3%BAjo-abrantes-2b179532b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:batista4999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
+    
+---
+
+### 📈 Minhas estatísticas no GitHub:
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=jotaveHub&show_icons=true&theme=dracula)
+
+---
+
+### 🚀 Linguagens mais usadas:
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorbatista&layout=compact&theme=radical)
+
 
 ---
