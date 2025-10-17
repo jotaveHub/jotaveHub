@@ -35,7 +35,7 @@
 ---
 
 ### 🚀 Linguagens mais usadas:
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorbatista&layout=compact&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaveHub&layout=compact&theme=dracula)
 
 
 ---
