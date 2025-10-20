@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Olá 👋, eu sou João Victor!</h1>
-<h3 align="center">Um desenvolvedor apaixonado pelo que faz.</h3>
+<h3 align="center">Desenvolvedor FullStack em Formação.</h3>
 
 ---
 
@@ -29,7 +29,8 @@
     
 ---
 
-### 📈 Minhas estatísticas no GitHub:
+### 📈 Minhas estatísticas no GitHub em repositórios remotos:
+Exceto Commits realizados nas Organizações.
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=jotaveHub&show_icons=true&theme=dracula)
 
 ---
