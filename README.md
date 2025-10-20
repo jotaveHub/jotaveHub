@@ -30,7 +30,7 @@
 ---
 
 ### 📈 Minhas estatísticas no GitHub em repositórios remotos:
-Exceto Commits realizados nas Organizações.
+<h6>Commits realizados nas organizações não são visíveis neste card.</h6>
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=jotaveHub&show_icons=true&theme=dracula)
 
 ---
