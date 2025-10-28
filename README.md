@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Olá 👋, eu sou João Victor!</h1>
-<h3 align="center">Estudante de Tecnologias.</h3>
+<h3 align="center">Estudante T.I.</h3>
 
 ---
 
