@@ -29,15 +29,4 @@
     
 ---
 
-### 📈 Minhas estatísticas no GitHub em repositórios remotos:
-<h6>Commits realizados nas organizações não são visíveis neste card.</h6>
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=jotaveHub&show_icons=true&theme=dracula)
-
----
-
-### 🚀 Linguagens mais usadas:
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaveHub&layout=compact&theme=dracula)
-
-
----
