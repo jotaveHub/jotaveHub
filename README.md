@@ -15,7 +15,7 @@
 ### 🛠️ Tecnologias
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,html,css,python,git" />
+    <img src="https://skillicons.dev/icons?i=c,js,html,css,powershell,git,java,postgres,github," />
   </a>
 </p>
 
