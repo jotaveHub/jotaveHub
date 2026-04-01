@@ -7,7 +7,7 @@
 
 ### 👨‍💻 Sobre Mim
 <p>
-  Sou um estudante de Análise e Desenvolvimento de Sistemas e um Desenvolvedor Full Stack em Formação. Meu foco é construir soluções de software eficientes e escaláveis. Atualmente, estou aprofundando meus conhecimentos em tecnologias como Java, JavaScript, Python, API's. Sempre buscando novos desafios para crescer profissionalmente.
+  Sou um estudante de Análise e Desenvolvimento de Sistemas e um Desenvolvedor Full Stack em Formação. Meu foco é construir soluções de software eficientes e escaláveis. Atualmente, estou aprofundando meus conhecimentos em tecnologias como Java, JavaScript, Cloud, Machine Learning, PostGreSQL, API's. Sempre buscando novos desafios para crescer profissionalmente.
 </p>
 
 ---
