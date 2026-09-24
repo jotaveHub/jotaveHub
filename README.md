@@ -33,17 +33,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotaveHub&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaveHub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jotaveHub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=jotaveHub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
