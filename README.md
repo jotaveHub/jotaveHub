@@ -11,6 +11,12 @@
 </p>
 
 ---
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jotaveHub&label=Profile%20Views&style=flat-square&color=blue" />
+
+</div>
+---
 
 ### 🛠️ Tecnologias
 <p align="left">
@@ -21,12 +27,30 @@
 
 ---
 
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotaveHub&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaveHub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jotaveHub&theme=tokyonight&hide_border=true" />
+
+</div>
+    
+---
 ### 📫 Entre em Contato
 <p align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-batista-de-ara%C3%BAjo-abrantes-2b179532b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:batista4999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
-    
 ---
 
 
