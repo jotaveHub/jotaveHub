@@ -23,7 +23,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,html,bash,css,git,java,postgres,springboot,sequelize" alt="Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=c,js,html,bash,css,git,java,postgres,spring,sequelize" alt="Tecnologias" />
   </a>
 </p>
 
